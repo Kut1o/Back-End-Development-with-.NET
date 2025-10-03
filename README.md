@@ -8,7 +8,7 @@ It demonstrates CRUD operations, input validation, debugging improvements, and m
 ## ✅ Project Rubric Coverage
 
 - **(5 pts) GitHub Repository**  
-  This codebase is hosted here: [GitHub Repo Link](https://github.com/<your-username>/UserManagementAPI)
+  This codebase is hosted here: [GitHub Repo Link](https://github.com/Kut1o/UserManagementAPI)
 
 - **(5 pts) CRUD Endpoints**  
   Implemented in `UsersController.cs`:  
