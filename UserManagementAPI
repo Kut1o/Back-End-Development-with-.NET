@@ -7,6 +7,6 @@ git commit -m "Initial commit - UserManagementAPI with CRUD, validation, and mid
 
 git branch -M main
 
-git remote add origin https://github.com/<your-username>/UserManagementAPI.git
+git remote add origin https://github.com/Kut1o/UserManagementAPI.git
 
 git push -u origin main
